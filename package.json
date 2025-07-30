@@ -25,7 +25,7 @@
     "url": "git+https://github.com/eatrejosm/helpers.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com/@eatrejosm"
   },
   "exports": {
     ".": {
